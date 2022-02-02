@@ -1,0 +1,11 @@
+{
+  "Identity": {
+    "token": "OTM4NDc1MDAyNTI3ODc1MTEy.Yfq09A.zhoK2wQnzsVUppQz7HtPjaIr5y8"
+  },
+  "Config": {
+    "DeleteMessage": true,
+    "KickUser": true,
+    "CheckPhrases": true,
+    "logChannel": "928821714085883945"
+  }
+}

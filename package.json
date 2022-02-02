@@ -1,0 +1,16 @@
+{
+  "name": "antiscam",
+  "version": "1.0.0",
+  "description": "Bot de Moderação Anti-Scam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mira",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "ping": "^0.4.1",
+    "tldts": "^5.7.60"
+  }
+}
